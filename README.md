@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Software Engineering student, building software and solving problems through technology.<br><br>💻 Currently developing **BitBunker**, a retro-inspired browser arcade, while stengthening Java programming skills, web development, and software architecture.<br><br>🔐 Interested in cybersecurity, backend development, and exploring how secure, reliable software is built.<br><br>🚀 Always learning, building practical projects, and growing as a developer.
+🎓 Software Engineering student, building software and solving problems through technology.<br><br>💻 Currently developing: **BitBunker**, a retro-inspired browser arcade, while stengthening skill in Java programming, web development, and software architecture.<br><br>🔐 Interested in cybersecurity, backend development, and exploring how secure, reliable software is built.<br><br>🚀 Always learning, building practical projects, and growing as a developer.
 
 
 ## 🌐 Socials:
